@@ -252,3 +252,5 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.17.3
+
+gem "kramdown", ">= 2.3.0"
